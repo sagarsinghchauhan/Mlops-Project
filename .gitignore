@@ -1,3 +1,9 @@
+#own into the project 
+venv_vechicle
+detail.txt
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
